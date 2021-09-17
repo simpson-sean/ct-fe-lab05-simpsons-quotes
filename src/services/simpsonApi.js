@@ -6,5 +6,6 @@ export const getSimpsonsQuote = async () => {
         image: quote.image,
         text: quote.quote,
         name: quote.character,
-    };
+    };   
 };
+
